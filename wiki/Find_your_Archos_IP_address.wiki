@@ -1,0 +1,8 @@
+#summary How to find your Archos' IP address
+= Introduction =
+
+To find your Archos' IP address, follow these instructions:
+
+  # From the main menu, select the wireless icon on the right
+  # If you are connected to a wifi connection, the status menu will show your IP address in the third row down. 
+  # If you are not connected to a wifi connection, connect to one and run these steps again.
