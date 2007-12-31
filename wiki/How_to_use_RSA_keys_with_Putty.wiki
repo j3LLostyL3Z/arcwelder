@@ -1,0 +1,12 @@
+#summary Instructions on using RSA keys with PuTTY
+
+= Introduction =
+
+Big thanks to forums.archosfans.com user 'maflow' for writing this up:
+
+# [http://www.chiark.greenend.org.uk/~sgtatham/putty/ Download and Install Putty]
+# Start PuttyGen. Load id_arcwelder and then Save private key (confirm saving without passphrase) to any location you want (Documents for example). Name it id_arcwelder.ppk. 
+# Start Putty. Select Connection-SSH-Auth. Click on Browse in the Authentication parameters section and load your private key (id_arcwelder.ppk) 
+# Switch back to Session and enter Archos IP address as Host Name. Click Open. 
+# Putty should open login session so login as root 
+# Wait few moments until BusyBox appears
