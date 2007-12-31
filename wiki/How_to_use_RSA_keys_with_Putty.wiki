@@ -10,3 +10,4 @@ Big thanks to forums.archosfans.com user 'maflow' for writing this up:
   # Switch back to Session and enter Archos IP address as Host Name. Click Open. 
   # Putty should open login session so login as root 
   # Wait few moments until BusyBox appears
+  # You're in!
