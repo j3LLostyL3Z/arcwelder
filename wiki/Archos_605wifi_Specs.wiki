@@ -1,0 +1,23 @@
+#summary Hardware stats for the Archos 605 wifi
+
+= Introduction =
+
+Display: 800x480 pixels, 4.3'' TFT LCD, 16 million color touch screen.
+
+Battery: Lithium Ion Polymer rechargeable. Not user replaceable. Charges over USB or charger (included with DVR station). Claimed music playback time: 17 hours. Claimed video playback: 5.5 hours.
+
+Performance: Intel XScale PXA 255 400 MHz processor. 64 MB built-in RAM (55 megs available). 32 MB Flash ROM with 2.85 megs available in File Store for your use.
+
+Size: 30 gig model: 4.8 x 3.2 x 0.6 inches. Weight: 6.7 ounces.
+
+Audio: Built in speakers and 3.5mm standard stereo headphone jack. Audio formats supported: MP3, WMV, AAC (requires plugin sold separately), AC3 (requires another plugin, sold separately) and WAV. Bitrates up to 320 kbps supported.
+
+Video: Supported formats: MPEG-4 (AVI) and ASF up to DVD quality, video podcast (requires plugin sold separately), MPEG-2 (requires yet another plugin, sold separately). ITunes video format for unprotected video supported (requires plugin purchase).
+
+Networking: Integrated WiFi 802.11b/g.
+
+Audio Recording: Via the optional DVR Station/ DVR Travel Adapter: Stereo line-in, WAV (IMA ADPCM or PCM) format.
+
+Software: Music player, video player, photo viewer, PDF viewer.
+
+Connection: USB 2.0 supporting USB and MTP.
