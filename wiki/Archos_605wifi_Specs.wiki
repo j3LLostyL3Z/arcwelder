@@ -2,4 +2,8 @@
 
 = Introduction =
 
-Woops, had the wrong stats.. will update.
+[http://edageek.com/2006/09/18/ti-davinci-archos/ Older TI Davinci / Archos Write-up]
+
+[http://focus.ti.com/paramsearch/docs/parametricsearch.tsp?family=dsp&sectionId=2&tabId=25&familyId=44 Texas Instruments - Davinci Technology Page]
+
+More coming
