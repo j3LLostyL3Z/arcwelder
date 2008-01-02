@@ -10,4 +10,6 @@
 
 [http://wiki.davincidsp.com Davinci DSP wiki]
 
+[http://wiki.davincidsp.com/index.php?title=Linux_Toolchain Linux Toolchain docs from Davinci DSP Wiki]
+
 More coming
