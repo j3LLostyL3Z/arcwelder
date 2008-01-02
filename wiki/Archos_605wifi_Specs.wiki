@@ -6,6 +6,8 @@
 
 [http://focus.ti.com/paramsearch/docs/parametricsearch.tsp?family=dsp&sectionId=2&tabId=25&familyId=44 Texas Instruments - Davinci Technology Page]
 
-[http://www.ti.com/corp/docs/landing/davinci/index.html Archos / Davinci Write-up from TI]
+[http://www.ti.com/corp/docs/landing/davinci/index.html Davinci  from TI]
+
+[http://wiki.davincidsp.com Davinci DSP wiki]
 
 More coming
